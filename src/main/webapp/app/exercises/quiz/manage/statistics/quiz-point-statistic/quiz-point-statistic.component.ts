@@ -53,7 +53,6 @@ export class QuizPointStatisticComponent implements OnInit, OnDestroy {
     yAxis = true;
     roundEdges = true;
     showDataLabel = true;
-    barPadding = 150;
     height = 500;
 
     // timer
